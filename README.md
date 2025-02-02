@@ -1,2 +1,2 @@
 # lildevilhorns.github.io
-my personal profile page
+this is a placeholder
